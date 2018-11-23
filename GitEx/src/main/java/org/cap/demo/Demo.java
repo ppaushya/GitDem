@@ -7,6 +7,7 @@ public class Demo {
 		sayHello();
 		System.out.println("bsdhsderygyugHYU");
 
+		System.out.println("b123ygyugHYU");
 	}
 	
 	public static void sayHello() {
